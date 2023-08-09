@@ -1,5 +1,5 @@
 ## About Me
-Hi! I'm a High School Junior who enjoys problem-solving with programming and mathematics, making art, and proofreading sentences. You can find my resume and more about me at [youruishao.com](youruishao.com).
+Hi! I'm a High School Junior who enjoys problem-solving with programming and mathematics, making art, and proofreading sentences. You can find my resume and more about me at [youruishao.com](http://youruishao.com).
 
 ### Toolbelt
 - Visual Studio Code
