@@ -19,6 +19,7 @@ Hi! I'm a High School Junior who enjoys problem-solving with programming and mat
 - LaTeX and writing LaTeX documents with Overleaf
 - Creating graphics with Canva and Adobe Illustrator
 - Digital art with Photoshop, Krita, and Procreate
+- Video editing with DaVinci Resolve
 
 ### Hardware
 - Raspberry Pi & Arduino
