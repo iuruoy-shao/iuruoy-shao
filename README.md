@@ -1,11 +1,6 @@
 ## About Me
 Hi! I'm a High School Junior who enjoys problem-solving with programming and mathematics, making art, and proofreading sentences.
 
-### Toolbelt
-- Visual Studio Code
-- MacOS Ventura
-- `pip` & `venv` 
-
 ## Skills
 ### Programming
 - Fluency with Python and Java
