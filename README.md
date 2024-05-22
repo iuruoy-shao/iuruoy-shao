@@ -13,7 +13,7 @@ Hi! I'm a High School Junior who enjoys problem-solving with programming and mat
 - Complex formulae and formatting in Google Sheets
 - LaTeX and writing LaTeX documents with Overleaf
 - Creating graphics with Canva and Adobe Illustrator
-- Digital art with Photoshop, Krita, and Procreate
+- Digital art and editing with Photoshop, Lightroom Krita, and Procreate
 - Video editing with DaVinci Resolve
 
 ### Hardware
