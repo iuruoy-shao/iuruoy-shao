@@ -1,20 +1,2 @@
 ## About Me
 Hi! I'm a High School Junior who enjoys problem-solving with programming and mathematics, making art, and proofreading sentences.
-
-## Skills
-### Programming
-- Fluency with Python and Java
-- Machine learning with Python (Sci-kit Learn, HuggingFace, etc.)
-- Flask Python web framework, Streamlit API
-- SQL databases (MySQL, SQLite)
-- Creating websites with HTML/CSS and Javascript
-
-### Software
-- Complex formulae and formatting in Google Sheets
-- LaTeX and writing LaTeX documents with Overleaf
-- Creating graphics with Canva and Adobe Illustrator
-- Digital art and editing with Photoshop, Lightroom Krita, and Procreate
-- Video editing with DaVinci Resolve
-
-### Hardware
-- Raspberry Pi & Arduino
