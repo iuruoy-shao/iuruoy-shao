@@ -1,2 +1,3 @@
-![Santa Cruz, California](https://github.com/user-attachments/assets/8f9e92ee-7f3f-4ed3-a46a-cb424dfaa6ff)
-*Santa Cruz, California*
+![DSC02519](https://github.com/user-attachments/assets/c45cf705-9aa0-435f-84ae-8e7fa632f9e5)
+***This Piece is Missing Focus*** (Cropped), 2024  
+Colored Pencil
